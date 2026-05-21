@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Email Obfuscation
- * Plugin URI: https://kaskcreative.com
+ * Plugin URI: https://kaskcreativity.com
  * Description: Protects email addresses from spam bots using base64 encoding and JavaScript decoding. Use the [email] shortcode or obfuscate_email() function.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Nick Kask
- * Author URI: https://kaskcreative.com
+ * Author URI: https://kaskcreativity.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: email-obfuscation
